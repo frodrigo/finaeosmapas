@@ -12,7 +12,7 @@ Illustrations de Iria Iglesias
 Édition Asociación GHANDALF, Espagne
 
 Ce travail est distribué sous licence
-Creactive Commons 4.0 International,
+Creative Commons 4.0 International,
 avec clauses d'attribution et de partage à l'identique.
 (CC BY-SA 4.0 International)
 La carte de la couverture provient de openstreetmap.org/copyright
@@ -46,7 +46,7 @@ Mais elle ne les utilise pas seulement pour jouer, elle le fait un peu, mais ce 
 Fanny se déplace toujours à vélo.
 L'endroit où elle aime le plus aller est la maison de sa grand-mère.
 
-— Manie ! Je suis là, il y a des biscuits ?
+— Mamie ! Je suis là, il y a des biscuits ?
 
 ## Page 6
 
@@ -67,7 +67,7 @@ De plus, elle fait de délicieux biscuits.
 ## Page 8
 
 — Mamie, qu'est-ce que c'est ? Demande Fanny, curieuse.
-— Ce sont des livres que j'ai ramenés d'Amériques. J'en ai ramené tellement que je ne sais pas où les mettre. Je pense qu'il y en a un qui va t'aider.
+— Ceux sont des livres que j'ai ramenés d'Amériques. J'en ai ramené tellement que je ne sais pas où les mettre. Je pense qu'il y en a un qui va t'aider.
 
 ## Page 9
 
@@ -76,7 +76,7 @@ De plus, elle fait de délicieux biscuits.
 
 ## Page 10
 
-— Mais Manie, il y a des cartes très anciennes dans ce livre, À l'époque, ils n'avaient pas la technologie que nous avons aujourd'hui.
+— Mais Mamie, il y a des cartes très anciennes dans ce livre,et à l'époque, ils n'avaient pas la technologie que nous avons aujourd'hui.
 Comment faisait-on les cartes ?
 
 — Eh bien, elles étaient dessinées par des cartographes.
@@ -89,7 +89,7 @@ Sa grand-mère rit et commence à lui expliquer.
 
 Les cartographes rassemblaient des informations provenant de nombreux endroits du
 monde pour comprendre à quoi il ressemblait. Ils discutaient avec des explorateurs,
-des commerçants et des marins qui leur racontaient leurs aventures, les routes qu'ils
+des commerçants et des marins qui leurs racontaient leurs aventures, les routes qu'ils
 avaient empruntées et le temps qu'ils leur avaient fallu pour arriver à chaque endroit.
 
 ## Page 12
@@ -104,7 +104,7 @@ de personnes qui s'étaient rendues sur place.
 — Mais Mamie, à l'époque il fallait beaucoup de monde pour faire une carte. Dit Fanny d'un ton pensif.
 
 — Bien sûr Fanny, chaque personne apportait une petite mais précieuse information,
-et tous ensemble, ils ont permis de créer des cartes complètes du monde.
+et toutes ensemble, elles ont permis de créer des cartes complètes du monde.
 
 ## Page 14
 
@@ -147,7 +147,7 @@ Maintenant c'est sur la carte !
 
 Ensemble, elles ont passé le reste de l'après-midi à ajouter des éléments à la carte. Elles ont même corrigé les petites erreurs qu'elles ont trouvées.
 
-Fanny a aidé sa grand-mère à créer un compte, de sorte qu'elle peut maintenant elle aussi à ajouter des lieux depuis son ordinateur.
+Fanny a aidé sa grand-mère à créer un compte, de sorte qu'elle peut maintenant elle aussi ajouter des lieux depuis son ordinateur.
 
 ## Page 20
 
@@ -168,12 +168,12 @@ La dernière chose qu'elles ont ajoutée est le magasin de bonbons. Êtant là, 
 Prenant les derniers bonbons du sac, Fanny demande :
 — Mamie, pouvons-nous faire d'autres promenades ? Je me suis rendu compte qu'il y avait encore beaucoup de choses à ajouter à la carte.
 
-Sa grand-mère la serrant chaleureusement dans ses bras en lui répond :
+Sa grand-mère la serrant chaleureusement dans ses bras et lui répond :
 — Bien sûr, quand tu veux, nous sommes des cartographes maintenant !
 
 ## Page 23
 
-Si tu as aimé notre histoire et que tu souhaites également devenir un cartographe, tu peux te rendre sur le site du projet OpenStreetMap (https://openstreetmap.org/) et commencer à ajouter des choses à la carte.
+Si tu as aimé notre histoire et que tu souhaites également devenir une ou un cartographe, tu peux te rendre sur le site du projet OpenStreetMap (https://openstreetmap.org/) et commencer à ajouter des choses à la carte.
 
 Comme ça, tous ensemble nous pourrons avoir une carte du monde actuelle et très précise grâce à nos connaissances locales et à notre collaboration.
 
