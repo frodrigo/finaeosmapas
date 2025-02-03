@@ -46,7 +46,7 @@ Mais elle ne les utilise pas seulement pour jouer, elle le fait un peu, mais ce 
 Fanny se déplace toujours à vélo.
 L'endroit où elle aime le plus aller est la maison de sa grand-mère.
 
-— Mamie ! Je suis là, il y a des biscuits ?
+— " Mamie ! Je suis là, il y a des biscuits ? "
 
 ## Page 6
 
@@ -59,29 +59,29 @@ De plus, elle fait de délicieux biscuits.
 
 ## Page 7
 
-— Oh, Mamie, qu'est-ce qui ne va pas ?
-— Je crois qu'il y a une panne de courant. Répond sa grand-mère d'une voix rassurante.
-— Eh bien… je voulais chercher sur la tablette l'endroit dont tu parlais dans ton histoire, mais la batterie est vide.
-— Ne t'inquiète pas, je crois que j'ai la solution.
+— " Oh, Mamie, qu'est-ce qui ne va pas ? "
+— " Je crois qu'il y a une panne de courant." répond sa grand-mère d'une voix rassurante.
+— " Eh bien… je voulais chercher sur la tablette l'endroit dont tu parlais dans ton histoire, mais la batterie est vide." 
+— " Ne t'inquiète pas, je crois que j'ai la solution." 
 
 ## Page 8
 
-— Mamie, qu'est-ce que c'est ? Demande Fanny, curieuse.
-— Ceux sont des livres que j'ai ramenés d'Amériques. J'en ai ramené tellement que je ne sais pas où les mettre. Je pense qu'il y en a un qui va t'aider.
+— " Mamie, qu'est-ce que c'est ? demande Fanny, curieuse.
+—  Ceux sont des livres que j'ai ramenés d'Amériques. J'en ai ramené tellement que je ne sais pas où les mettre. Je pense qu'il y en a un qui va t'aider."
 
 ## Page 9
 
-— Quel est ce livre, Mamie ? Demande Fanny avec des yeux pétillants.
-— C'est un atlas ! Quand j'étais jeune, les cartes ne se trouvaient que dans des livres comme celui-là. Il n'y avait pas d'appareils modernes comme ta tablette.
+— " Quel est ce livre, Mamie ? demande Fanny avec des yeux pétillants.
+—  C'est un atlas ! Quand j'étais jeune, les cartes ne se trouvaient que dans des livres comme celui-là. Il n'y avait pas d'appareils modernes comme ta tablette."
 
 ## Page 10
 
-— Mais Mamie, il y a des cartes très anciennes dans ce livre,et à l'époque, ils n'avaient pas la technologie que nous avons aujourd'hui.
-Comment faisait-on les cartes ?
+— " Mais Mamie, il y a des cartes très anciennes dans ce livre, et à l'époque, ils n'avaient pas la technologie que nous avons aujourd'hui.
+Comment faisait-on les cartes ?"
 
-— Eh bien, elles étaient dessinées par des cartographes.
+— " Eh bien, elles étaient dessinées par des cartographes."
 
-— Comment ça, ils les dessinaient ? Demande Fanny étonnée.
+— " Comment ça, ils les dessinaient ? " demande Fanny étonnée.
 
 Sa grand-mère rit et commence à lui expliquer.
 
@@ -101,17 +101,17 @@ de personnes qui s'étaient rendues sur place.
 
 ## Page 13
 
-— Mais Mamie, à l'époque il fallait beaucoup de monde pour faire une carte. Dit Fanny d'un ton pensif.
+— "Mais Mamie, à l'époque il fallait beaucoup de monde pour faire une carte." dit Fanny d'un ton pensif.
 
-— Bien sûr Fanny, chaque personne apportait une petite mais précieuse information,
-et toutes ensemble, elles ont permis de créer des cartes complètes du monde.
+— "Bien sûr Fanny, chaque personne apportait une petite mais précieuse information,
+et toutes ensemble, elles ont permis de créer des cartes complètes du monde."
 
 ## Page 14
 
-— Au revoir Mamie ! J'ai beaucoup de recherches à faire sur les cartes.
-— Je suis sûre que tu vas le faire. Répond sa grand-mère en souriant.
+— " Au revoir Mamie ! J'ai beaucoup de recherches à faire sur les cartes.
+— Je suis sûre que tu vas le faire." répond sa grand-mère en souriant.
 — Sois prudente et préviens-moi quand tu seras rentrée.
-— Bien sûr Mamie !
+— Bien sûr Mamie !"
 
 ## Page 15
 
@@ -123,25 +123,25 @@ Il s'agit d'OpenStreetMap, défini comme « la carte coopérative libre ».
 Le lendemain elle rend à nouveau visite à sa grand-mère. Fanny est très enthousiaste.
 Elle veut arriver le plus vite possible pour lui dire ce qu'elle a découvert.
 
-— Regarde Mamie ! En faisant des recherches, j'ai découvert ce projet.
+— " Regarde Mamie ! En faisant des recherches, j'ai découvert ce projet.
 Grâce à Internet, tout le monde peut contribuer à la création d'une carte du monde en dessinant les lieux qu'il connaît,
-C'est la même chose que ce que tu m'as raconté à propos des cartographes !
+C'est la même chose que ce que tu m'as raconté à propos des cartographes !"
 
 
 ## Page 17
 
-— Mais maintenant, Mamie, avec la technologie tout est plus facile.
+— " Mais maintenant, Mamie, avec la technologie tout est plus facile.
 Regarde, j'ai créé un compte et je peux ajouter des informations sur la carte.
 Regarde, à la maison j'ai dessiné le bâtiment de l'école qui n'était pas là et j'ai mis le nom dessus.
-Maintenant c'est sur la carte !
+Maintenant c'est sur la carte !"
 
 ## Page 18
 
-— Tu es donc devenu une cartographe numérique ! Dit fièrement sa grand-mère.
-— Je pense que oui, Mamie ! Mais... tu pourrais l'être aussi. Il ne manque pas quelque chose sur la carte ?
+— " Tu es donc devenu une cartographe numérique !" dit fièrement sa grand-mère.
+— Je pense que oui, Mamie ! Mais... tu pourrais l'être aussi. Il ne manque pas quelque chose sur la carte ?"
 
-— Maintenant que tu le dis... je ne vois pas la salle où je fais de la gym avec mes amies.
-— Oh, ajoutons-la tout de suite !
+— " Maintenant que tu le dis... je ne vois pas la salle où je fais de la gym avec mes amies.
+— Oh, ajoutons-la tout de suite ! "
 
 ## Page 19
 
@@ -160,16 +160,16 @@ Lorsqu'elles ont trouvé une route ou un lieu important qui manquait, elles se s
 
 La dernière chose qu'elles ont ajoutée est le magasin de bonbons. Êtant là, Fanny qui a un penchant pour les sucreries, en a profité pour en acheter.
 
-— Et où vont les données que nous ajoutons ?
-— Hé bien Mamie, les données sont libres, tout le monde peut les utiliser pour ce dont ils ont besoin, sans payer ni demander la permission, juste en disant d'où elles viennent.
+— " Et où vont les données que nous ajoutons ?
+— Hé bien Mamie, les données sont libres, tout le monde peut les utiliser pour ce dont ils ont besoin, sans payer ni demander la permission, juste en disant d'où elles viennent. "
 
 ## Page 22
 
 Prenant les derniers bonbons du sac, Fanny demande :
-— Mamie, pouvons-nous faire d'autres promenades ? Je me suis rendu compte qu'il y avait encore beaucoup de choses à ajouter à la carte.
+— " Mamie, pouvons-nous faire d'autres promenades ? Je me suis rendu compte qu'il y avait encore beaucoup de choses à ajouter à la carte."
 
-Sa grand-mère la serrant chaleureusement dans ses bras et lui répond :
-— Bien sûr, quand tu veux, nous sommes des cartographes maintenant !
+Sa grand-mère, la serrant chaleureusement dans ses bras, lui répond :
+— " Bien sûr, quand tu veux, nous sommes des cartographes maintenant !"
 
 ## Page 23
 
