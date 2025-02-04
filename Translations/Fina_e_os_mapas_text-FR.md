@@ -59,7 +59,7 @@ De plus, elle fait de délicieux biscuits.
 
 ## Page 7
 
-— Oh, Mamie, qu'est-ce qui ne va pas ? 
+— Oh, Mamie, qu'est-ce qui ne va pas ?
 — Je crois qu'il y a une panne de courant. répond sa grand-mère d'une voix rassurante.
 — Eh bien… je voulais chercher sur la tablette l'endroit dont tu parlais dans ton histoire, mais la batterie est vide.
 — Ne t'inquiète pas, je crois que j'ai la solution.
