@@ -101,7 +101,7 @@ de personnes qui s'étaient rendues sur place.
 
 ## Page 13
 
-— Mais Mamie, à l'époque il fallait beaucoup de monde pour faire une carte. dit Fanny d'un ton pensif.
+— Mais Mamie, à l'époque il fallait beaucoup de monde pour faire une carte, dit Fanny d'un ton pensif.
 
 — Bien sûr Fanny, chaque personne apportait une petite mais précieuse information,
 et toutes ensemble, elles ont permis de créer des cartes complètes du monde.
