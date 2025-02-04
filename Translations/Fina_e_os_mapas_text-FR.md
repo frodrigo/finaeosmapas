@@ -77,7 +77,7 @@ De plus, elle fait de délicieux biscuits.
 ## Page 10
 
 — Mais Mamie, il y a des cartes très anciennes dans ce livre, et à l'époque, ils n'avaient pas la technologie que nous avons aujourd'hui.
-Comment faisait-on les cartes ?"
+Comment faisait-on les cartes ?
 
 — Eh bien, elles étaient dessinées par des cartographes.
 
@@ -137,7 +137,7 @@ Maintenant c'est sur la carte !
 
 ## Page 18
 
-— Tu es donc devenu une cartographe numérique !" dit fièrement sa grand-mère.
+— Tu es donc devenu une cartographe numérique ! dit fièrement sa grand-mère.
 — Je pense que oui, Mamie ! Mais... tu pourrais l'être aussi. Il ne manque pas quelque chose sur la carte ?
 
 — Maintenant que tu le dis... je ne vois pas la salle où je fais de la gym avec mes amies.
