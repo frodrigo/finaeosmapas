@@ -67,7 +67,6 @@ De plus, elle fait de délicieux biscuits.
 ## Page 8
 
 — Mamie, qu'est-ce que c'est ? demande Fanny, curieuse.
-
 — Ce sont des livres que j'ai ramenés des Amériques. J'en ai ramené tellement que je ne sais pas où les mettre. Je pense qu'il y en a un qui va t'aider.
 
 ## Page 9
