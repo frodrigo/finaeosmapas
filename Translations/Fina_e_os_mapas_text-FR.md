@@ -141,7 +141,6 @@ Maintenant c'est sur la carte !
 — Je pense que oui, Mamie ! Mais... tu pourrais l'être aussi. Il ne manque pas quelque chose sur la carte ?
 
 — Maintenant que tu le dis... je ne vois pas la salle où je fais de la gym avec mes amies.
-
 — Oh, ajoutons-la tout de suite !
 
 ## Page 19
