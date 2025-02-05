@@ -73,7 +73,6 @@ De plus, elle fait de délicieux biscuits.
 ## Page 9
 
 — Quel est ce livre, Mamie ? demande Fanny avec des yeux pétillants.
-
 — C'est un atlas ! Quand j'étais jeune, les cartes ne se trouvaient que dans des livres comme celui-là. Il n'y avait pas d'appareils modernes comme ta tablette.
 
 ## Page 10
