@@ -161,7 +161,6 @@ Lorsqu'elles ont trouvé une route ou un lieu important qui manquait, elles se s
 La dernière chose qu'elles ont ajoutée est le magasin de bonbons. Étant là, Fanny qui a un penchant pour les sucreries, en a profité pour en acheter.
 
 — Et où vont les données que nous ajoutons ?
-
 — Hé bien Mamie, les données sont libres, tout le monde peut les utiliser pour ce dont ils ont besoin, sans payer ni demander la permission, juste en disant d'où elles viennent.
 
 ## Page 22
