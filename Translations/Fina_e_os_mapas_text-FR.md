@@ -169,7 +169,6 @@ Prenant les derniers bonbons du sac, Fanny demande :
 — Mamie, pouvons-nous faire d'autres promenades ? Je me suis rendu compte qu'il y avait encore beaucoup de choses à ajouter à la carte.
 
 Sa grand-mère, la serrant chaleureusement dans ses bras, lui répond :
-
 — Bien sûr, quand tu veux, nous sommes des cartographes maintenant !
 
 ## Page 23
