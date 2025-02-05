@@ -9,13 +9,13 @@ Fanny et les cartes. À la découverte des cartes collaboratives.
 
 Texte de Pablo Sanxiao
 Illustrations de Iria Iglesias
-Édition Asociación GHANDALF, Espagne
+Édition : Asociación GHANDALF, Espagne
 
 Ce travail est distribué sous licence
 Creative Commons 4.0 International,
 avec clauses d'attribution et de partage à l'identique.
 (CC BY-SA 4.0 International)
-La carte de la couverture provient de openstreetmap.org/copyright
+La carte de la couverture provient de données OpenStreetMap openstreetmap.org/copyright
 
 Vous trouverez plus d'informations sur cette licence ici :
 https://creativecommons.org/licenses/by-sa/4.0/deed.fr
@@ -60,18 +60,23 @@ De plus, elle fait de délicieux biscuits.
 ## Page 7
 
 — Oh, Mamie, qu'est-ce qui ne va pas ?
+
 — Je crois qu'il y a une panne de courant, répond sa grand-mère d'une voix rassurante.
+
 — Eh bien… je voulais chercher sur la tablette l'endroit dont tu parlais dans ton histoire, mais la batterie est vide.
+
 — Ne t'inquiète pas, je crois que j'ai la solution.
 
 ## Page 8
 
 — Mamie, qu'est-ce que c'est ? demande Fanny, curieuse.
-— Ce sont des livres que j'ai ramenés d'Amériques. J'en ai ramené tellement que je ne sais pas où les mettre. Je pense qu'il y en a un qui va t'aider.
+
+— Ce sont des livres que j'ai ramenés des Amériques. J'en ai ramené tellement que je ne sais pas où les mettre. Je pense qu'il y en a un qui va t'aider.
 
 ## Page 9
 
 — Quel est ce livre, Mamie ? demande Fanny avec des yeux pétillants.
+
 — C'est un atlas ! Quand j'étais jeune, les cartes ne se trouvaient que dans des livres comme celui-là. Il n'y avait pas d'appareils modernes comme ta tablette.
 
 ## Page 10
@@ -109,13 +114,16 @@ et toutes ensemble, elles ont permis de créer des cartes complètes du monde.
 ## Page 14
 
 — Au revoir Mamie ! J'ai beaucoup de recherches à faire sur les cartes.
+
 — Je suis sûre que tu vas le faire, répond sa grand-mère en souriant.
+
 — Sois prudente et préviens-moi quand tu seras rentrée.
+
 — Bien sûr Mamie !
 
 ## Page 15
 
-Une fois rentré chez elle, Fanny se précipite dans sa chambre pour étudier le sujet des cartes. Un projet attire son attention.
+Une fois rentrée chez elle, Fanny se précipite dans sa chambre pour étudier le sujet des cartes. Un projet attire son attention.
 Il s'agit d'OpenStreetMap, défini comme « la carte coopérative libre ».
 
 ## Page 16
@@ -131,16 +139,18 @@ C'est la même chose que ce que tu m'as raconté à propos des cartographes !
 ## Page 17
 
 — Mais maintenant, Mamie, avec la technologie tout est plus facile.
-Regarde, j'ai créé un compte et je peux ajouter des informations sur la carte.
+J'ai créé un compte et je peux ajouter des informations sur la carte.
 Regarde, à la maison j'ai dessiné le bâtiment de l'école qui n'était pas là et j'ai mis le nom dessus.
 Maintenant c'est sur la carte !
 
 ## Page 18
 
 — Tu es donc devenu une cartographe numérique ! dit fièrement sa grand-mère.
+
 — Je pense que oui, Mamie ! Mais... tu pourrais l'être aussi. Il ne manque pas quelque chose sur la carte ?
 
 — Maintenant que tu le dis... je ne vois pas la salle où je fais de la gym avec mes amies.
+
 — Oh, ajoutons-la tout de suite !
 
 ## Page 19
@@ -152,23 +162,26 @@ Fanny a aidé sa grand-mère à créer un compte, de sorte qu'elle peut maintena
 ## Page 20
 
 Lorsqu'elles n'ont plus rien trouvé à ajouter, elles décidèrent d'aller se promener et d'explorer ensemble.
-Fanny a prise sa tablette pour consulter la carte OpenStreetMap.
+Fanny a pris sa tablette pour consulter la carte OpenStreetMap.
 
 Lorsqu'elles ont trouvé une route ou un lieu important qui manquait, elles se sont arrêtées pour l'ajouter.
 
 ## Page 21
 
-La dernière chose qu'elles ont ajoutée est le magasin de bonbons. Êtant là, Fanny qui a un penchant pour les sucreries, en a profité pour en acheter.
+La dernière chose qu'elles ont ajoutée est le magasin de bonbons. Étant là, Fanny qui a un penchant pour les sucreries, en a profité pour en acheter.
 
 — Et où vont les données que nous ajoutons ?
+
 — Hé bien Mamie, les données sont libres, tout le monde peut les utiliser pour ce dont ils ont besoin, sans payer ni demander la permission, juste en disant d'où elles viennent.
 
 ## Page 22
 
 Prenant les derniers bonbons du sac, Fanny demande :
+
 — Mamie, pouvons-nous faire d'autres promenades ? Je me suis rendu compte qu'il y avait encore beaucoup de choses à ajouter à la carte.
 
 Sa grand-mère, la serrant chaleureusement dans ses bras, lui répond :
+
 — Bien sûr, quand tu veux, nous sommes des cartographes maintenant !
 
 ## Page 23
