@@ -110,7 +110,6 @@ et toutes ensemble, elles ont permis de créer des cartes complètes du monde.
 
 — Au revoir Mamie ! J'ai beaucoup de recherches à faire sur les cartes.
 — Je suis sûre que tu vas le faire, répond sa grand-mère en souriant.
-
 — Sois prudente et préviens-moi quand tu seras rentrée.
 
 — Bien sûr Mamie !
