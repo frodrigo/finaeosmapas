@@ -26,6 +26,8 @@ Illustration, conception et mise en page : Studio Gnomo, Espagne
 
 Financement public : AMTEGA (Junte de Galice, Espagne)
 
+Traduction française : Frédéric Rodrigo (relecture par Cécile Guégan et Vincent Bergeot)
+
 ## Page 3
 
 Joséphine et les cartes
@@ -110,7 +112,7 @@ et toutes ensemble, elles ont permis de créer des cartes complètes du monde.
 ## Page 14
 
 — Au revoir Mamie ! J'ai beaucoup de recherches à faire sur les cartes.
-— Je suis sûre que tu vas le faire, répond sa grand-mère en souriant.
+— Je suis sûre que tu vas les faire, répond sa grand-mère en souriant.
 — Sois prudente et préviens-moi quand tu seras rentrée.
 — Bien sûr Mamie !
 
